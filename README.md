@@ -7,3 +7,5 @@ This repository contains all of the notes taken by [filza](https://github.com/fi
 # Table of Contents
 * [Week 1](/week_1)
   * [Day 1](/week_1/day_1)
+  * [Day 2](/week_1/day_2)
+  * [Day 3](/week_1/day_3)
